@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "engines": {
+        "node": ">=8"
+    },
     "private": true,
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +21,7 @@
     },
     "homepage": "https://github.com/sspringer82/apicon#readme",
     "dependencies": {
-        "jasmine": "^2.8.0"
+        "jasmine": "^2.8.0",
+        "nodemon": "^1.12.1"
     }
 }
