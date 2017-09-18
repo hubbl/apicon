@@ -45,3 +45,7 @@ chrome://inspect
 ### Debugger in der IDE
 VSC: https://code.visualstudio.com/docs/editor/debugging
 WebStorm: https://www.jetbrains.com/help/webstorm/running-and-debugging-node-js.html
+
+## Compat
+http://kangax.github.io/compat-table/es6/
+http://node.green/
