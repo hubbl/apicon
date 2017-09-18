@@ -41,3 +41,7 @@ node --inspect-brk node_modules/jasmine/bin/jasmine.js
 Im Chrome: 
 
 chrome://inspect
+
+### Debugger in der IDE
+VSC: https://code.visualstudio.com/docs/editor/debugging
+WebStorm: https://www.jetbrains.com/help/webstorm/running-and-debugging-node-js.html
