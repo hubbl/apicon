@@ -1,4 +1,4 @@
-# Valentines Day
+# Halloweensday
 
 Schreibe eine function log, die eine Log-Message formatiert und das aktuelle Datum vorne anhängt.
 
