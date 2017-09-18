@@ -29,3 +29,7 @@ npx nodemon -w src/**/*.js -w spec/**/*.js --exec npx jasmine
 Script in npm scripts aufnehmen
 
 npm run watch
+
+## Katas
+
+https://github.com/sspringer82/katas
