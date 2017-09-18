@@ -1,6 +1,6 @@
 const request = require('request');
 
-describe('google', () => {
+xdescribe('google', () => {
     it('should work', done => {
         request('http://www.google.com', function(error, response, body) {
             expect(response).toBeDefined();
