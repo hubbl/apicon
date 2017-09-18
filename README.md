@@ -33,3 +33,11 @@ npm run watch
 ## Katas
 
 https://github.com/sspringer82/katas
+
+## Debug
+
+node --inspect-brk node_modules/jasmine/bin/jasmine.js
+
+Im Chrome: 
+
+chrome://inspect

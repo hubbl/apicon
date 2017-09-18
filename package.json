@@ -9,7 +9,8 @@
     "private": true,
     "scripts": {
         "test": "jasmine",
-        "watch": "nodemon -w src/**/*.js -w spec/**/*.js --exec npx jasmine"
+        "watch": "nodemon -w src/**/*.js -w spec/**/*.js --exec npx jasmine",
+        "debug": "node --inspect-brk node_modules/jasmine/bin/jasmine.js"
     },
     "repository": {
         "type": "git",

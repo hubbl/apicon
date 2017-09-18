@@ -15,6 +15,7 @@ describe('Calculator', () => {
         });
 
         it('should add 1 and 1 and return 2', () => {
+            debugger;
             // act
             const result = this.calc.add(1, 1);
             // assert
