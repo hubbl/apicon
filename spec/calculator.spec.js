@@ -7,6 +7,7 @@ describe('Calculator', () => {
 
     describe('Addition', () => {
         //let calc;
+        // this.calc als alternative
 
         beforeEach(() => {
             // arrange

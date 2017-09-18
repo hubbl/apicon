@@ -8,7 +8,7 @@
     },
     "private": true,
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "jasmine"
     },
     "repository": {
         "type": "git",
@@ -20,7 +20,7 @@
         "url": "https://github.com/sspringer82/apicon/issues"
     },
     "homepage": "https://github.com/sspringer82/apicon#readme",
-    "dependencies": {
+    "devDependencies": {
         "jasmine": "^2.8.0",
         "nodemon": "^1.12.1"
     }
