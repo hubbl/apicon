@@ -8,7 +8,8 @@
     },
     "private": true,
     "scripts": {
-        "test": "jasmine"
+        "test": "jasmine",
+        "watch": "nodemon -w src/**/*.js -w spec/**/*.js --exec npx jasmine"
     },
     "repository": {
         "type": "git",
