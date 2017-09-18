@@ -1,8 +1,7 @@
-function async(cb) {
-    const result = 'Hello';
+function async(cb, value, timeout) {
     setTimeout(() => {
-        cb(result);
-    }, 1000);
+        cb(value);
+    }, timeout);
 }
 
 module.exports = async;
