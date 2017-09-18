@@ -46,7 +46,7 @@ describe('Calculator', () => {
             expect(add).toThrow();
         });
 
-        it('should throw an exception if a string is provided #1', () => {
+        it('should throw an exception if a string is provided #3', () => {
             expect(() => {
                 this.add('zwei!', 1);
             }).toThrow();
